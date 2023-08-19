@@ -11,6 +11,7 @@ This is a Pytorch implementation of the radio flow module from the following pap
 
 ![image](docs/flow_model.jpg)
 
+https://github.com/ConnectedSystemsLab/batmobility_ae/assets/14133352/3a7fa785-f5d9-4c83-8ec6-324ddeba491e
 
 #### 1. Requirements and Dependencies
 This code is tested on Ubuntu 18.04 and requires an NVIDIA GPU (we use an RTX 3090).
