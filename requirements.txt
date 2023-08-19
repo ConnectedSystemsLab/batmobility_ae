@@ -1,0 +1,22 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.11.0+cu113
+torchvision==0.12.0+cu113
+tqdm
+numpy==1.19.5
+numba
+scipy
+matplotlib
+opencv-python
+open3d
+scikit-image
+pyqt5
+pytransform3d
+py3rosmsgs
+bagpy
+--extra-index-url https://rospypi.github.io/simple/
+roslz4 
+evo
+cvbridge3
+openvino
+onnxruntime
+pycryptodome
