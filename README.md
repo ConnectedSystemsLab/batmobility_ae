@@ -23,7 +23,7 @@ conda activate batmobility_ae
 ```
 
 #### 2. Evaluation 
-The [test dataset](https://uofi.box.com/s/yn4k8m11iann3ky2e9wivgjd7u43wfk6) includes the pre-trained models and test data used to generate the main results in the paper. The structure is as follows:
+The [test dataset](https://zenodo.org/record/8312500/files/test_data.zip?download=1) includes the pre-trained models and test data used to generate the main results in the paper. The structure is as follows:
 ```
 test_data/
 |-- v4/               # This corresponds to the 15 Hz model described in the paper.
@@ -46,7 +46,7 @@ To test each pre-trained model on its corresponding test set, run
 For each test `.bag` in each folder the script generates a plot showing a comparison between the corresponding model and the commercial optical flow sensor (PMW3901). In addition to the plot, the raw outputs of the model are also saved as `.npz` files.
 
 #### 3. Training
-We also provide a [larger dataset](https://uofi.box.com/s/mf5qjobkfi3wwlb7es2kii77744bgxvg) (~30 GB) to train models from scratch. It consists of a set of `.bag` files split into training and validation sets for each model. 
+We also provide a [larger dataset](https://zenodo.org/record/8312500/files/train_data.zip?download=1) (~30 GB) to train models from scratch. It consists of a set of `.bag` files split into training and validation sets for each model. 
 ```
 train_data/
 |-- v4/
