@@ -56,7 +56,8 @@ def eval_model(model_save_path,
 
 if __name__ == '__main__':
 
-    for x in zip(test_paths,                                                                                                                             model_save_paths, 
+    for x in zip(test_paths,
+                 model_save_paths, 
                  radar_buffer_lens, 
                  angle_ress, 
                  angle_ranges, 
