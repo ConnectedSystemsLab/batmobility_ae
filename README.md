@@ -1,5 +1,5 @@
 ## BatMobility🦇 [MobiCom'23]
-### [Paper](https://arxiv.org/pdf/2307.11518.pdf) | [arXiv](https://arxiv.org/abs/2307.11518.pdf) | [Project Page](https://batmobility.github.io)
+### [Paper](https://dl.acm.org/doi/10.1145/3570361.3592532) | [arXiv](https://arxiv.org/abs/2307.11518.pdf) | [Project Page](https://batmobility.github.io)
 
 This is a Pytorch implementation of the radio flow module from the following paper: <br/>
 > **BatMobility: Towards Flying Without Seeing for Autonomous Drones**  
