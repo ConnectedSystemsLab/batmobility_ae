@@ -2,9 +2,9 @@
 ### [Paper](https://dl.acm.org/doi/10.1145/3570361.3592532) | [arXiv](https://arxiv.org/abs/2307.11518.pdf) | [Project Page](https://batmobility.github.io)
 
 This is a Pytorch implementation of the radio flow module from the following paper: <br/>
-> **BatMobility: Towards Flying Without Seeing for Autonomous Drones**  
+> **[BatMobility: Towards Flying Without Seeing for Autonomous Drones](https://dl.acm.org/doi/10.1145/3570361.3592532)**  
 > Emerson Sie, Zikun Liu, Deepak Vasisht    
-> *ACM International Conference on Mobile Computing and Networking (MobiCom), 2023* 
+> *ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2023* 
 >
 
 ---
